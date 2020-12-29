@@ -8,7 +8,7 @@ Random Horoscope Generator that outputs a random horoscope for a random zodiac s
 
 ## Technolgy
 
-VS Code
-Javascript
-Node.js
+* VS Code
+* Javascript
+* Node.js
 
